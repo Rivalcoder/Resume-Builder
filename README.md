@@ -29,8 +29,8 @@ A modern web application built with Next.js that helps users create professional
 | React | 19 | UI Library |
 | Tailwind CSS | 4 | Styling |
 | Puppeteer | Latest | PDF Generation |
-| JavaScript | - | Primary Language |
-| CSS | - | Styling |
+| JavaScript | Latest | Primary Language |
+| CSS | Latest | Styling |
 
 ## 🚀 Getting Started
 
